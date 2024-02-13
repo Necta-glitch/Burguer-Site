@@ -1,12 +1,12 @@
 
 import './App.css'
-import Navbar from './assets/components/navbar';
-import Hero from './assets/components/hero';
-import About from './assets/components/about';
-import Menu from './assets/components/menu';
-import Letter from './assets/components/letter';
-import Order from './assets/components/order';
-import Footer from './assets/components/footer';
+import Navbar from './components/navbar';
+import Hero from './components/hero';
+import About from './components/about';
+import Menu from './components/menu';
+import Letter from './components/letter';
+import Order from './components/order';
+import Footer from './components/footer';
 
 function App() {
   return (
